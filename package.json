@@ -1,0 +1,19 @@
+{
+  "name": "user-api",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Creating user api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubhanshu Trivedi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
